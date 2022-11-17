@@ -334,6 +334,7 @@ section{
   position: relative;
   margin-right: 10vh;
   bottom:230vh;
+  z-index: -10;
 }
 .about-us{
   z-index: -5;
